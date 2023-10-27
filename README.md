@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white">
 </p>
 
-<h3>🌟Github Stats🌟</h3>
+<h3>Github Stats🌟</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sim0321&margin-w=15&margin-h=15&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
