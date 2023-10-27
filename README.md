@@ -6,7 +6,7 @@
 🚀 소통을 최우선적으로 생각하며, 혼자보다 다 같이 해결하는 것이 더 의미있다고 생각합니다.
 ```
 
-### Education
+### Education 🎓
 
 > 2023.06 ~ 2023.10 슈퍼코딩 부트캠프(React.js)
 
@@ -50,11 +50,11 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white">
 </p>
 
-<h3>Github Stats</h3>
+<h3>Github Stats🌟</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sim0321&margin-w=15&margin-h=15&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3>Contacts</h3>
+<h3>Contacts📞</h3>
 <div>
   <a href="mailto:dev.0doogadooga@gmail.com"><img src="https://img.shields.io/badge/dev.0doogadooga@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
   <a href="https://www.notion.so/4bc029b489ea46e1a3ccedbbc6ad19f8?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"></a>
