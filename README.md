@@ -60,3 +60,5 @@
   <a href="https://www.notion.so/4bc029b489ea46e1a3ccedbbc6ad19f8?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"></a>
   <a href="https://velog.io/@scw0604"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"></a>
 </div>
+
+![SimChaeWoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sim0321&show_icons=true&theme=radical)
