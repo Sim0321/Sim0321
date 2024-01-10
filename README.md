@@ -39,7 +39,7 @@
 ### Link
 
 <p>
-<a href="https://www.notion.so/e2260589a40942ccbf4909f80c846f69?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"></a>
+<a href="https://www.notion.so/e2260589a40942ccbf4909f80c846f69?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=포트폴리오&logoColor=white"></a>
   <a href="https://velog.io/@scw0604"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"></a>
 </p>
 
