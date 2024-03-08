@@ -90,7 +90,7 @@
 
 <h3>Contacts</h3>
 <div>
-  <a href="mailto:dev.0doogadooga@gmail.com"><img src="https://img.shields.io/badge/dev.0doogadooga@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
+  <a href="mailto:dev.0doogadooga@gmail.com"><img src="https://img.shields.io/badge/0doogadooga@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
   
 </div>
 
